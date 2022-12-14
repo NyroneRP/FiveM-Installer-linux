@@ -17,8 +17,8 @@ bash <(curl -s https://raw.githubusercontent.com/NyroneRP/FiveM-Installer-linux/
 > * update FiveM ➡️ this is going to update the TxAdmin installation (not yet recommended)
 > * do nothing ➡️ exit
 
+# Credits
+[Twe3x](https://github.com/Twe3x) is the Actual creator of this script, i just changed some of the stuff to work as i wanted and changed the links to one github repositories insted of multiple branches
+ 
 ## ❗LICENSE:
 This software is distributed under the [ license](/LICENSE).
-
-## Credit
- [Twe3x](https://github.com/Twe3x) the Actual creator of this script, i just changed some of the stuff to work as i wanted and changed the links to one github repositories insted of multiple branches

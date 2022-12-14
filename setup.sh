@@ -18,11 +18,11 @@ bashSelect
 
 case $? in
      0 )
-        bash <(curl -s https://raw.githubusercontent.com/Twe3x/fivem-installer/main/install.sh);;
+        bash <(curl -s https://raw.githubusercontent.com/NyroneRP/FiveM-Installer-linux/main/install.sh);;
      1 )
-        bash <(curl -s https://raw.githubusercontent.com/Twe3x/fivem-installer/main/install.sh) phpma;;
+        bash <(curl -s https://raw.githubusercontent.com/NyroneRP/FiveM-Installer-linux/main/install.sh) phpma;;
      2 )
-        bash <(curl -s https://raw.githubusercontent.com/JulianGransee/PHPMyAdminInstaller/main/install.sh);;
+        bash <(curl -s https://raw.githubusercontent.com/NyroneRP/FiveM-Installer-linux/main/phpAdmin-Installer.sh);;
      3 )
         exit 0
 esac

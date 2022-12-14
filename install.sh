@@ -6,7 +6,7 @@ reset="\e[0m"
 
 
 
-source <(curl -s https://raw.githubusercontent.com/JulianGransee/BashSelect.sh/main/BashSelect.sh)
+source <(curl -s https://raw.githubusercontent.com/NyroneRP/FiveM-Installer-linux/main/BashSelection.sh)
 clear
 status(){
   clear
@@ -186,7 +186,7 @@ if [[ -e $dir ]]; then
 fi
 
 if [[ $phpmaInstall == 0 ]]; then
-  bash <(curl -s https://raw.githubusercontent.com/GermanJag/PHPMyAdminInstaller/main/install.sh) -s
+  bash <(curl -s https://raw.githubusercontent.com/NyroneRP/FiveM-Installer-linux/main/BashSelection.sh) -s
 fi
 
 runCommand "mkdir -p $dir/server" "Create directorys for the FiveM server"
